@@ -44,6 +44,8 @@ This was inspired by our neighbors to the south, [Birmingham Tech](https://githu
 
 ## Groups and Organizations
 
+* [Women Who Code HSV](https://www.womenwhocode.com/huntsville)
+
 ## Networking
 
 ### Conferences and Events
@@ -61,6 +63,7 @@ This was inspired by our neighbors to the south, [Birmingham Tech](https://githu
 ### Slack
 
 * [Tech256](https://tech256.com)
+* [Women Who Code HSV](https://wwchsv.github.io/)
 
 ### Reddit
 
