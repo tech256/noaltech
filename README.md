@@ -60,6 +60,8 @@ This was inspired by our neighbors to the south, [Birmingham Tech](https://githu
 
 ### Slack
 
+* [Tech256](https://tech256.com)
+
 ### Reddit
 
 ## Open Data
