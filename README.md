@@ -46,6 +46,7 @@ This was inspired by our neighbors to the south, [Birmingham Tech](https://githu
 
 * [Women Who Code HSV](https://www.womenwhocode.com/huntsville)
 * [HSV.py](https://www.meetup.com/hsv-py/)
+* [Docker Huntsville](https://www.meetup.com/hsv-docker/)
 
 ## Networking
 
